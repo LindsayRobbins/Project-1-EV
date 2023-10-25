@@ -6,7 +6,7 @@ Analyzing the pros/cons of owning an EV vs an ICE vehicle
 # Research Questions to be Answered 
 - Comparing Carbon footprint of ICE vs EV
   -  How long to get the ROI on an EV?
-- What is the maintenance & operating cost comparison over 5 years for an EV/ICE Vehicle?
+- What is the operating & maintenance cost comparison over 5 years for an EV/ICE Vehicle?
 - Which fuel type is more efficient?
   - Greenhouse emissions impact comparison
 - When is the best time to charge your EV?
